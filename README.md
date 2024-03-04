@@ -1,6 +1,6 @@
 # Visual Studio Code: Produtividade Absoluta
 
-![alt](https:\img-blog.csdnimg.cn\0dfe697e-7e26-417b-856b-8a322c0e30f2.png)
+![alt](https://img-blog.csdnimg.cn/b5a2b1d4fbc74011af7b76d8616026a4.png)
 
 # Sumário Completo de Aulas - Matheus Battisti
 | ID  | Titulos              | GUIA                | .YAML                                                                           |
